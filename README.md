@@ -5,7 +5,7 @@
 
 참고자료 [이펙티브 타입스크립트](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158903589)
 
-|아이템|1 주차|2 주차|3 주차|4 주차
+|아이템|1 주차|2 주차|3 주차|4 주차|
 |---|---|---|---|---|---|---|---|
 |2~3장|✅|
 |4~5장||✅|
